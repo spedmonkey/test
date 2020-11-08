@@ -11,4 +11,6 @@ class my_class(object):
     def difference(self, number1, number2):
         return (number1-number2)
 
+
+
 a = my_class()
